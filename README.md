@@ -1,4 +1,4 @@
-# AngularAutoComplete
+# Angular Js AutoComplete
 jQuery UI AutoComplete using AngularJs
 
 **How To Use**
